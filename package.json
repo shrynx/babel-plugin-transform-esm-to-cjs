@@ -44,5 +44,8 @@
     "hooks": {
       "pre-commit": "npm run lint && lint-staged"
     }
+  },
+  "dependencies": {
+    "babel-types": "^6.26.0"
   }
 }
